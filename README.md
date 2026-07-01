@@ -11,7 +11,7 @@
 	<p align = "center">
 	<a href="https://github.com/ryo-ma/github-profile-trophy">
         <img height='124' 
-        src="https://github-profile-trophy.vercel.app/?username=tonycox&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=2&column=4" 
+        src="https://trophygithubreadmelang.cybee.dpdns.org/?username=tonycox&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=2&column=4" 
         alt="tonycox"/>
     </a>
 </p>
